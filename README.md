@@ -52,9 +52,7 @@ A mental health tech startup seeks to launch an AI-driven app to manage stress a
 ---
 
 ## **Dashboards**
-[View the Tableau Dashboards]([(https://github.com/raskirtsingh/Global-Mental-Health-Analysis/tree/main/Visualizations)])
-
-
+#### [View the Tableau Dashboards](https://github.com/raskirtsingh/Global-Mental-Health-Analysis/tree/main/Visualizations) 
 ---
 
 ## **Folder Structure**
