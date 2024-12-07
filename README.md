@@ -51,14 +51,9 @@ A mental health tech startup seeks to launch an AI-driven app to manage stress a
 
 ---
 
-## **Dashboard**
-The Tableau dashboard provides interactive visualizations of:
-1. Global anxiety and depression trends over time.
-2. Anxiety prevalence by gender across regions.
-3. Top 10 countries with the highest gender disparity in mental health disorders.
-4. Correlations between external factors and mental health prevalence.
+## **Dashboards**
+[View the Tableau Dashboards]([(https://github.com/raskirtsingh/Global-Mental-Health-Analysis/tree/main/Visualizations)])
 
-**[View the Tableau Dashboard]()** 
 
 ---
 
